@@ -28,5 +28,5 @@ Spotify user's complete music streaming history data including timestamps, track
 - The user enjoys using the shuffle option proven by the profile's shuffle  rate at 74.46%. The most played song on shuffle mode is "In the Blood" (played 125 times) which poses a question on whether Spotify's algorithm is random enough for users to enjoy every variety of the songs on their playlist. Considering that "In the Blood" comprises only 0.11% of all the shuffled songs, we can initially conclude that the randomization is well distributed. An added information on the total number of tracks in the user's playlist can further support and solidify the claim on whether Spotify's randomization algorithm is effective.
 
 ## Visualization
--[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMzRhM2Q4ZTQtYjdkZC00ZWEyLTgzZjYtZWUzYTBkNzlkNTBmIiwidCI6IjQwMTE5ZDRmLWY1NzQtNGQzNS05MjNkLTA2NjJiNDc0NTRmNyJ9)
+Power BI : [Link](https://app.powerbi.com/view?r=eyJrIjoiMzRhM2Q4ZTQtYjdkZC00ZWEyLTgzZjYtZWUzYTBkNzlkNTBmIiwidCI6IjQwMTE5ZDRmLWY1NzQtNGQzNS05MjNkLTA2NjJiNDc0NTRmNyJ9)
 
