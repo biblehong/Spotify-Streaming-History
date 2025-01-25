@@ -30,3 +30,7 @@ Spotify user's complete music streaming history data including timestamps, track
 ## Visualization
 Power BI : [Link](https://app.powerbi.com/view?r=eyJrIjoiMzRhM2Q4ZTQtYjdkZC00ZWEyLTgzZjYtZWUzYTBkNzlkNTBmIiwidCI6IjQwMTE5ZDRmLWY1NzQtNGQzNS05MjNkLTA2NjJiNDc0NTRmNyJ9)
 
+![spotify](https://github.com/user-attachments/assets/2e83445a-99ec-4670-9777-295e3fce7a66)
+
+
+
